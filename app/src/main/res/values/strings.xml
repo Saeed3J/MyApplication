@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="categories_screen_title">Event Builder</string>
+    <string name="categories_screen_subtitle">Add to your event view our cost estimate.</string>
+</resources>
